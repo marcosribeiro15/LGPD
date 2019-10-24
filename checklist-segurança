@@ -1,0 +1,63 @@
+Checklist para atividades de segurança
+
+GERENCIAMENTO DAS INFORMAÇÕES DA EMPRESA
+
+Tema: Burocracia
+QUESTÃO 1
+É efetuado algum gerenciamento de riscos na organização ?
+QUESTÃO 2 
+A política de segurança da informação é bem definida e entendido por todos ?
+QUESTÃO 3
+É feito revisão periódica dos itens de segurança pelo comitê responsável ?
+QUESTÃO 4
+Os riscos terceirizados estão embasados em contrato para garantir a proteção dos dados pessoais ?
+
+CIÊNCIA DA RESPONSABILIDADE
+
+Tema: Conscientização
+QUESTÃO 5
+Os funcionários recebem treinamentos periódicos para garantir o conhecimento de suas responsabilidades ?
+CONTROLES DE ACESSO
+
+Tema: Segurança física
+QUESTÃO 6
+Existe na empresa hábito de restrição de acesso físico somente para quem é permitido ?
+Tema: Segurança digital
+QUESTÃO 7
+Existe na empresa hábito de restrição de acesso digital somente para os administradores de rede ?
+QUESTÃO 8
+Os dados são mascarados para técnicos de atendimento terem acesso somente ao que precisam ?
+QUESTÃO 9
+Existe um processo de descarte de equipamentos cuidadoso para que os dados não sejam roubados ?
+QUESTÃO 10
+Existe uma área isolada só para guardar dados pessoais ?
+MEIOS DE PROTEÇÃO
+
+Tema: Segurança em computador e rede
+QUESTÃO 11
+Os computadores tem antivírus ?
+QUESTÃO 12
+Existe autenticação por FSSO ?
+QUESTÃO 13
+Existem controles para midia removível ?
+QUESTÃO 14
+Os softwares e o sistema operacional são atualizados com frequência ?
+QUESTÃO 15
+Existem métodos de desenvolvimento seguro para os sistemas ?
+QUESTÃO 16
+Existe limitação com o mínimo possível de administradores masters na rede ?
+QUESTÃO 17
+As credenciais têm características de senha forte ?
+QUESTÃO 18
+Existe monitoramento que mapeia quem está violando dados pessoais ?
+É feito periodicamente backups e a validação do mesmo ?
+QUESTÃO 19
+A comunicação com o controlador é feito periodicamente para realizar um levantamento dos eventos ocorridos naquele período ?
+QUESTÃO 20
+Existem firewalls na borda da rede ?
+QUESTÃO 21
+É utilizado algum tipo de detecção e prevenção de violação de dados pessoais por meio do IPS ?
+QUESTÃO 22
+São aplicadas medidas de regulamentação às normas mais conhecidas de padronização dos itens de segurança ?
+QUESTÃO 23
+Os logs são guardados em um gerenciador de logs ?
